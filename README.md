@@ -1,5 +1,6 @@
 # Bank-Loan-Analysis
-![Screenshot 2024-12-20 211629](https://github.com/user-attachments/assets/e0e6c519-eec3-4180-a71a-63f35f0633e6)
+
+![World-Bank-1024x570-1](https://github.com/user-attachments/assets/b33aeb17-e60f-46a4-8068-92c083fda3cc)
 
 
  ## This is an Excel Dashboard analysis project regarding  Bank Loan.
